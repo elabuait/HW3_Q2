@@ -1,6 +1,3 @@
-//
-// Created by Elias  Abueita on 3/25/25.
-//
 #include "Polygon.h"
 #ifndef TRIANGLE_H
 #define TRIANGLE_H
@@ -11,5 +8,4 @@ public:
     int getArea() const override;
     void draw() const override;
 };
-
 #endif //TRIANGLE_H
